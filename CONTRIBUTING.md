@@ -16,3 +16,4 @@ Notes and usage details for agent-skills-cli.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
